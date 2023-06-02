@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://prediksi-motesia-togel.github.io/sitemap.xml
